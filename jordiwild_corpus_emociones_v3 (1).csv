@@ -1,0 +1,760 @@
+ID,Palabras_Clave,Emocion,Intensidad,Engagement,Engagement_Level,Tweet Creation Date,Prob_Emocion
+0,"relacionado, premios, esland, después, levantarme",Alegría,Alta,29613,Alto,2022-01-18 17:58:12,0.993
+1,"otra, amor, jesucristo",Enfado,Media,135996,Viral,2022-01-18 18:12:16,0.607
+2,"haber, segunda, parte, podcast, lethal",Neutral,Alta,17485,Alto,2022-01-20 16:01:34,0.993
+3,"nuevo, vídeo, secta, jonestown, dirigida",Tristeza,Media,2668,Bajo,2022-01-20 18:04:21,0.596
+4,"nuevo, podcast, lethalcrysis, hiclavero, vuelven",Alegría,Alta,2256,Bajo,2022-01-21 15:44:22,0.977
+5,"hispanos, latinos, brandon, moreno, joder",Alegría,Alta,8911,Medio,2022-01-23 04:27:10,0.97
+6,"pues, nada, podido, combate, táctico",Neutral,Alta,5378,Medio,2022-01-23 05:18:47,0.993
+7,"hacker, andorra, mejor, anime, puedo",Alegría,Media,31217,Alto,2022-01-23 18:08:08,0.691
+8,"streamer, próximo, evento, tipo, squid",Alegría,Alta,83523,Viral,2022-01-25 00:33:12,0.952
+9,"nuevo, podcast, explico, fueron, premios",Neutral,Alta,2150,Bajo,2022-01-25 15:51:07,0.965
+10,"simplemente, padre",Alegría,Alta,15519,Alto,2022-01-26 20:24:49,0.775
+11,"estoy, tardando, subir, podcast, tenido",Neutral,Alta,8734,Medio,2022-01-27 17:14:55,0.766
+12,"spoiler, queda, mucho, visita, pasó",Neutral,Alta,46969,Alto,2022-01-27 18:08:28,0.948
+13,"nuevo, podcast, rubius, wild, project",Alegría,Alta,30930,Alto,2022-01-27 19:37:43,0.974
+14,"spotify, pone, pasta, fichar, haaland",Neutral,Alta,28476,Alto,2022-01-27 20:29:26,0.987
+15,"estáis, amargados, twitter",Enfado,Alta,51068,Viral,2022-01-29 15:08:51,0.847
+16,"dais, tanta, importancia, benidorm, eurovision",Enfado,Alta,2712,Bajo,2022-01-30 00:16:49,0.92
+17,"rafa, nadal, mejor, parido, españa",Alegría,Alta,33617,Alto,2022-01-30 15:06:36,0.988
+18,"queréis, sentiros, viejos, final, fantasy",Neutral,Alta,13629,Alto,2022-01-31 14:28:30,0.968
+19,"nuevo, podcast, tertulia, wild, project",Alegría,Alta,1613,Bajo,2022-02-01 15:50:22,0.986
+20,"sesión, elxokas, pareja, enamorada, punto",Neutral,Alta,77379,Viral,2022-02-01 18:34:07,0.938
+21,basta,Neutral,Media,84364,Viral,2022-02-02 16:40:46,0.643
+22,"entrevista, hecho, maravilloso, padre, papagiorgioreal",Neutral,Alta,1854,Bajo,2022-02-03 15:24:11,0.909
+23,"nuevo, podcast, david, saavedra, estuvo",Alegría,Alta,2979,Medio,2022-02-03 15:43:01,0.966
+24,"cholo, defensas, solo, perdéis",Neutral,Alta,17165,Alto,2022-02-06 16:25:19,0.978
+25,"laporta, conseguido, unos, meses, bartomeu",Neutral,Alta,35254,Alto,2022-02-07 22:38:41,0.973
+26,choca,Neutral,Baja,20336,Alto,2022-02-08 13:41:22,0.445
+27,"nuevo, podcast, nueva, tertulia, semana",Neutral,Alta,1186,Bajo,2022-02-08 15:59:46,0.982
+28,"madre, parió",Neutral,Media,19287,Alto,2022-02-09 22:40:04,0.668
+29,"hola, buenas, tardes, espero, esten",Neutral,Alta,17306,Alto,2022-02-10 13:50:26,0.872
+30,"nuevo, podcast, cris, gutiérrez, clasificada",Alegría,Alta,1426,Bajo,2022-02-10 16:41:03,0.986
+31,"prensa, cada, youtuber, hace, cagada",Neutral,Alta,17978,Alto,2022-02-11 17:21:05,0.791
+32,"ojalá, buenos, combates, duraran, asaltos",Neutral,Alta,8863,Medio,2022-02-13 05:40:07,0.973
+33,"superbowl, igual, aparentar, interesa, casi",Neutral,Media,17245,Alto,2022-02-14 02:31:13,0.728
+34,"único, rapero, legendario, faltó, halftime",Neutral,Alta,34300,Alto,2022-02-14 02:45:04,0.987
+35,valentín,Alegría,Media,28593,Alto,2022-02-14 22:32:30,0.601
+36,"nuevo, podcast, tertulia, semanal, wild",Neutral,Media,1194,Bajo,2022-02-15 16:02:21,0.621
+37,"perdón, dejé, otro, grande, mundo",Neutral,Alta,6154,Medio,2022-02-15 18:24:30,0.921
+38,"tweet, llegue, likes, pondré, respuesta",Alegría,Media,30283,Alto,2022-02-17 15:18:26,0.709
+39,"nuevo, podcast, pedro, baños, geoestratego",Alegría,Alta,2182,Bajo,2022-02-17 15:47:43,0.957
+40,defensa,Neutral,Alta,15723,Alto,2022-02-17 18:33:15,0.949
+41,"fuera, bromas, hecho, partido, ganar",Neutral,Alta,15819,Alto,2022-02-17 19:45:35,0.785
+42,"noche, estaré, horizonte, querido, iker",Alegría,Media,3327,Medio,2022-02-17 22:35:22,0.695
+43,"está, primero, pille, lleva",Neutral,Alta,2665,Bajo,2022-02-18 15:09:51,0.931
+44,"sabéis, demasiado, superhéroes, peacemaker, encantado",Alegría,Alta,16381,Alto,2022-02-20 15:58:46,0.996
+45,"desde, paracetamor, puto, main, event",Alegría,Alta,44286,Alto,2022-02-20 20:40:20,0.828
+46,"mañana, analizaré, velada, wild, project",Alegría,Alta,21746,Alto,2022-02-20 21:43:37,0.963
+47,"jagger, ganar, combates",Neutral,Alta,32211,Alto,2022-02-20 22:15:56,0.988
+48,"nuevo, podcast, tertulia, semana, wild",Neutral,Alta,1434,Bajo,2022-02-22 15:36:24,0.984
+49,"bitcoins, beso, medio, culo, quien",Neutral,Alta,19513,Alto,2022-02-22 19:10:28,0.782
+50,"maldito, miyazaki, hijo, puta, vuelto",Enfado,Alta,7016,Medio,2022-02-23 22:29:30,0.797
+51,"rusia, ucrania",Neutral,Alta,43066,Alto,2022-02-24 14:01:15,0.988
+52,,Neutral,Alta,93832,Viral,2022-02-24 15:17:55,0.951
+53,"nuevo, podcast, wild, project, mayo",Neutral,Media,2246,Bajo,2022-02-24 15:57:10,0.739
+54,"podcast, nacho, vidal, sido, polla",Alegría,Alta,24672,Alto,2022-02-24 19:48:30,0.968
+55,"mierda, quiero, pegar, tiro, cojones",Sorpresa,Media,167906,Viral,2022-02-26 13:18:19,0.72
+56,,Neutral,Alta,6862,Medio,2022-02-26 21:48:41,0.765
+57,"gustaría, poder, traeros, bromas, salseos",Neutral,Alta,10074,Alto,2022-02-27 21:46:10,0.874
+58,"pena, xavi, viniera, hace, meses",Tristeza,Media,30095,Alto,2022-02-27 21:54:12,0.593
+59,"nuevo, podcast, ibaillanos, vino, wild",Neutral,Alta,7052,Medio,2022-03-01 15:36:14,0.946
+60,"siento, podcast, ayudando, streamers, pequeños",Alegría,Alta,44004,Alto,2022-03-01 16:22:43,0.994
+61,"hola, hermosuras, estoy, buscando, editores",Neutral,Media,10848,Alto,2022-03-02 18:40:26,0.697
+62,"nuevo, podcast, segunda, parte, visita",Alegría,Alta,2490,Bajo,2022-03-03 15:29:12,0.992
+63,"ibaillanos, hemos, hackeado, youtube",Neutral,Alta,32112,Alto,2022-03-03 23:04:33,0.939
+64,"después, follada, residente, balvin, creo",Neutral,Media,47690,Alto,2022-03-05 16:21:04,0.68
+65,"xavineta, rápido, espera",Alegría,Alta,28101,Alto,2022-03-06 17:32:04,0.842
+66,"xokas, nuestro, padre, hablar",Alegría,Media,41057,Alto,2022-03-08 14:45:19,0.525
+67,"nuevo, podcast, tertulia, repleta, noticias",Alegría,Alta,1395,Bajo,2022-03-08 16:06:10,0.944
+68,"época, hacerte, chulo, tenías, fumar",Neutral,Alta,31381,Alto,2022-03-09 19:53:50,0.981
+69,"paquetes, ganar",Neutral,Alta,21940,Alto,2022-03-09 22:45:16,0.945
+70,"nuevo, podcast, arturo, pérez, reverte",Alegría,Media,2806,Medio,2022-03-10 15:29:42,0.728
+71,"encanta, toninievas, tenga, pinta, psycho",Alegría,Alta,738,Bajo,2022-03-10 19:40:57,0.93
+72,"hola, buenas, tardes, felis, viernes",Alegría,Alta,13685,Alto,2022-03-11 14:21:32,0.924
+73,"luka, doncic, mejor, jugador, admito",Neutral,Media,12262,Alto,2022-03-12 05:37:22,0.55
+74,"willy, staxx, jugando, nuevo, único",Alegría,Media,57211,Viral,2022-03-13 21:19:44,0.528
+75,"nuevo, podcast, tertulia, proyecto, salvaje",Alegría,Alta,1649,Bajo,2022-03-15 15:32:14,0.994
+76,"cerebro, diseñado, mapas, elden, ring",Neutral,Alta,23595,Alto,2022-03-16 18:31:42,0.986
+77,"nuevo, podcast, duros, hasta, momento",Neutral,Alta,1593,Bajo,2022-03-17 15:58:33,0.976
+78,"última, participé, acto, sexual, espermatozoide",Neutral,Alta,53119,Viral,2022-03-18 15:20:52,0.941
+79,"twitter, cojones, pasa",Sorpresa,Alta,14526,Alto,2022-03-18 16:18:46,0.764
+80,"elden, ring, finalizado, domingo, nuevo",Neutral,Alta,10675,Alto,2022-03-18 20:39:19,0.925
+81,"internautas, coño, mirando, unas, fotos",Alegría,Alta,4660,Medio,2022-03-19 19:57:26,0.957
+82,"amigos, amigas, después, medio, vuelvo",Alegría,Alta,23093,Alto,2022-03-20 14:43:26,0.995
+83,"serio, habéis, tomado, semana, calmaros",Enfado,Media,42519,Alto,2022-03-20 14:50:58,0.554
+84,"nuevo, vídeo, verdad, jeffrey, epstein",Neutral,Baja,3956,Medio,2022-03-20 15:14:18,0.487
+85,"semana, twitter",Neutral,Alta,61333,Viral,2022-03-20 17:51:08,0.973
+86,"está, modo, full, xavineta",Neutral,Alta,28388,Alto,2022-03-20 20:37:38,0.989
+87,"xavi, cogió, equipo, deprimido, triste",Alegría,Alta,39348,Alto,2022-03-20 21:12:30,0.97
+88,"wildcris, abuelo, quién, roto, ventana",Neutral,Alta,3079,Medio,2022-03-22 21:19:11,0.787
+89,"subido, taxi, estaba, escuchando, wild",Neutral,Media,53616,Viral,2022-03-24 15:28:47,0.725
+90,"nuevo, podcast, especial, guerra, ucrania",Neutral,Alta,2079,Bajo,2022-03-24 16:05:15,0.925
+91,"gracias, will, smith, darme, contenido",Neutral,Alta,84834,Viral,2022-03-28 03:18:48,0.841
+92,"oscars, venido, hostiar",Neutral,Media,30857,Alto,2022-03-28 04:35:07,0.552
+93,"nuevo, podcast, tertulia, cada, semana",Alegría,Alta,1986,Bajo,2022-03-29 14:45:14,0.975
+94,"internautas, muchas, gracias, estoy, recuperando",Alegría,Alta,55232,Viral,2022-03-29 16:15:32,0.932
+95,"grandes, tipos, persona, mundo, escriben",Neutral,Alta,40543,Alto,2022-03-29 19:58:10,0.986
+96,"pienso, especial, wild, project, estar",Neutral,Alta,24684,Alto,2022-03-30 13:24:17,0.962
+97,"noticias, trágicas, bruce, willis, grandes",Tristeza,Alta,4560,Medio,2022-03-30 23:48:53,0.983
+98,"nuevo, podcast, viene, project, cuenta",Alegría,Alta,10925,Alto,2022-03-31 13:56:45,0.988
+99,"siento, amigos, votar, hard, jungla",Enfado,Baja,2045,Bajo,2022-03-31 14:03:08,0.461
+100,"mola, tema, extraterrestre, interesantísimo, vídeo",Neutral,Alta,1281,Bajo,2022-04-01 17:12:12,0.961
+101,"jordineta, llegado",Neutral,Alta,22792,Alto,2022-04-01 18:04:49,0.785
+102,"malas, noticias, semana, haber, tertulia",Tristeza,Baja,11153,Alto,2022-04-03 16:08:16,0.466
+103,"tweet, simplemente, recordaros, pedri, tiene",Neutral,Alta,33975,Alto,2022-04-03 20:36:25,0.981
+104,"habla, mucho, haaland, mbappé, cuánto",Neutral,Alta,30483,Alto,2022-04-03 20:56:30,0.983
+105,"mucho, cachondeo, guerra, mural, reddit",Neutral,Alta,21772,Alto,2022-04-04 16:08:25,0.851
+106,"tengo, muchas, ganas, hacer, podcast",Neutral,Alta,31264,Alto,2022-04-04 16:45:29,0.93
+107,"cumple, años, akira, toriyama, creador",Neutral,Alta,21744,Alto,2022-04-05 15:31:21,0.84
+108,"gripe, sido, intensa, corta, encuentro",Alegría,Alta,10119,Alto,2022-04-06 16:59:32,0.923
+109,"nuevo, podcast, vuelve, siensia, wild",Alegría,Alta,2482,Bajo,2022-04-07 14:17:55,0.978
+110,"siento, kingdom, hearts, pereza, extrema",Enfado,Alta,8091,Medio,2022-04-10 17:39:54,0.903
+111,"nuevo, podcast, retorna, tertulia, wild",Neutral,Alta,1587,Bajo,2022-04-12 14:43:58,0.947
+112,"atrevo, reírme, madrid, gafar, chelsea",Neutral,Alta,15174,Alto,2022-04-12 20:36:04,0.907
+113,"cago, dios",Enfado,Media,16196,Alto,2022-04-12 20:37:43,0.508
+114,"algún, entiendo, madrid, jugar, acabar",Enfado,Media,38293,Alto,2022-04-12 21:08:25,0.608
+115,"madrid, tiene, explicación",Sorpresa,Media,21195,Alto,2022-04-12 21:47:26,0.719
+116,"solo, entienden, referencia",Neutral,Alta,7249,Medio,2022-04-14 14:19:12,0.993
+117,"nuevo, podcast, descansa, semana, santa",Alegría,Media,1030,Bajo,2022-04-14 14:29:25,0.655
+118,"xavineta, gasolina",Neutral,Alta,26215,Alto,2022-04-14 20:04:45,0.981
+119,"estáis, enterando, quiere, ganar, título",Neutral,Media,15439,Alto,2022-04-14 20:27:57,0.719
+120,"cosas, seguras, nuestra, xokas, tendrá",Neutral,Alta,23607,Alto,2022-04-14 20:40:45,0.979
+121,"seguís, subidos, xavineta",Neutral,Alta,2364,Bajo,2022-04-14 23:39:44,0.96
+122,"madrid, pesao, eres",Enfado,Alta,21343,Alto,2022-04-17 20:57:23,0.824
+123,"explica, alguien, xokas, futbolista, cádiz",Neutral,Alta,9751,Medio,2022-04-19 02:48:50,0.876
+124,"nuevo, podcast, tertulia, hablar, cositas",Alegría,Alta,1330,Bajo,2022-04-19 15:05:11,0.905
+125,"tenéis, problemas, vídeos, culpa, haya",Enfado,Alta,3566,Medio,2022-04-20 14:06:44,0.781
+126,"quisiera, mosca, posarme, piel",Neutral,Alta,22438,Alto,2022-04-21 00:06:44,0.98
+127,"nuevo, podcast, miembro, fuerzas, especiales",Alegría,Alta,2626,Bajo,2022-04-21 14:35:46,0.942
+128,"grande, vais",Alegría,Alta,34309,Alto,2022-04-21 20:40:50,0.991
+129,"cosas, está, flipando, juicio, entre",Sorpresa,Alta,12896,Alto,2022-04-23 17:34:21,0.789
+130,"sabes, vives, vida, intensamente, emoji",Neutral,Alta,9255,Medio,2022-04-23 17:47:19,0.99
+131,"santo, vuestros, padres",Neutral,Media,14077,Alto,2022-04-23 19:57:07,0.593
+132,"hola, buenas, tardes, quiero, adios",Neutral,Media,7192,Medio,2022-04-24 15:31:34,0.718
+133,"twitter, conflicto, hate, cualquier, tema",Neutral,Alta,29715,Alto,2022-04-24 15:51:07,0.921
+134,"encantaría, traer, podcast, nayibbukele, presidente",Neutral,Alta,33631,Alto,2022-04-24 19:25:04,0.969
+135,"elon, musk, hola, quiero",Neutral,Alta,31769,Alto,2022-04-25 23:15:34,0.884
+136,"nuevo, podcast, hermano, jasantaolalla, vuelve",Alegría,Alta,4057,Medio,2022-04-26 14:07:55,0.994
+137,"hola, quantumfracture, acuerdas, cuándo, vienes",Neutral,Alta,14600,Alto,2022-04-26 16:37:10,0.874
+138,"benzema, eres, pesao",Enfado,Alta,21245,Alto,2022-04-26 19:41:56,0.877
+139,"madrid, tiene, ningún, puto, sentido",Enfado,Alta,10842,Alto,2022-04-26 20:27:59,0.907
+140,"bueno, mundo, piensa, madrid, llegar",Neutral,Alta,21105,Alto,2022-04-26 20:55:04,0.91
+141,"eres, cabrón, tiparraco, debes, dinerito",Enfado,Alta,1903,Bajo,2022-04-27 18:29:05,0.783
+142,"autorizo, beséis, mismo, bribones",Enfado,Alta,12161,Alto,2022-04-28 00:54:56,0.897
+143,"nuevo, podcast, jasantaolalla, horas, hablando",Alegría,Alta,3177,Medio,2022-04-28 14:59:19,0.973
+144,"mino, raiola, revive, veces, krilin",Neutral,Alta,7611,Medio,2022-04-28 15:21:30,0.906
+145,"hagáis, estáis, preocupados, whatsapp, escribe",Neutral,Media,22036,Alto,2022-04-28 21:13:02,0.537
+146,"nuevo, podcast, cada, semana, tertulia",Alegría,Alta,1032,Bajo,2022-05-03 15:20:38,0.966
+147,"mañana, encontramos, maravilla, cartel, ocurrido",Neutral,Alta,2080,Bajo,2022-05-04 10:01:46,0.891
+148,"mañana, gran, iker, jiménez, navedelmisterio",Alegría,Alta,8384,Medio,2022-05-04 13:30:50,0.935
+149,"quiero, felicitar, real, madrid, champions",Enfado,Alta,42950,Alto,2022-05-04 21:48:57,0.762
+150,"culés, mismo",Neutral,Alta,16826,Alto,2022-05-04 22:32:57,0.982
+151,"nuevo, podcast, regresa, iker, jiménez",Alegría,Alta,1521,Bajo,2022-05-05 14:09:23,0.994
+152,"hermosos, queréis, conseguir, ballantine, moxxi",Alegría,Alta,794,Bajo,2022-05-05 14:23:42,0.874
+153,"nominar, oscars, amber, heard, gran",Neutral,Alta,59749,Viral,2022-05-05 14:43:32,0.97
+154,"noche, épica, tengo, ganas, llegue",Alegría,Alta,3803,Medio,2022-05-06 16:13:01,0.897
+155,"único, equipo, tiene, derecho, ganar",Alegría,Alta,9275,Medio,2022-05-07 19:33:41,0.931
+156,"mejores, historia",Alegría,Baja,5696,Medio,2022-05-08 03:54:34,0.473
+157,"canelo, siempre, equipo",Alegría,Alta,16501,Alto,2022-05-08 05:08:11,0.763
+158,"nuevo, podcast, tertulia, cada, semana",Alegría,Alta,1290,Bajo,2022-05-10 13:48:55,0.981
+159,"cumpleaños, padre, años, gran, edad",Alegría,Alta,40355,Alto,2022-05-11 15:04:05,0.996
+160,"calvos, favoritos",Alegría,Alta,1240,Bajo,2022-05-11 19:46:53,0.838
+161,"frenkie, jong, vaya, cualquier, otro",Neutral,Alta,27654,Alto,2022-05-12 01:46:02,0.98
+162,"nuevo, vídeo, genio, figura, lmdshow",Alegría,Alta,7368,Medio,2022-05-12 15:06:29,0.819
+163,"bitcoins, mismo",Neutral,Alta,21354,Alto,2022-05-13 22:03:26,0.981
+164,"eurovision, solo, interesan, memes, españa",Neutral,Alta,18004,Alto,2022-05-14 20:09:32,0.93
+165,"gana, españa, tweet, anterior, nada",Neutral,Alta,10845,Alto,2022-05-14 22:05:51,0.779
+166,"acabo, vídeo, psicópata, entrando, armado",Sorpresa,Baja,111901,Viral,2022-05-15 15:02:20,0.468
+167,"podemos, reconocer, luka, doncic, mejor",Neutral,Alta,20173,Alto,2022-05-16 01:59:47,0.946
+168,"nuevo, podcast, cada, semana, tertulia",Neutral,Alta,2243,Bajo,2022-05-17 14:50:17,0.95
+169,"faltaba, irnos, tomar, culo, viruela",Enfado,Media,22271,Alto,2022-05-18 21:38:39,0.749
+170,"espero, japoneses, hayan, actualizado, edificios",Neutral,Media,15672,Alto,2022-05-19 01:25:25,0.672
+171,"nuevo, podcast, oriol, junqueras, visita",Neutral,Media,3068,Medio,2022-05-19 14:20:13,0.591
+172,encanta,Alegría,Alta,4269,Medio,2022-05-19 20:03:41,0.795
+173,"únicos, pueden, salvar, culés, liverpool",Neutral,Media,42310,Alto,2022-05-20 14:01:59,0.622
+174,"mbappé, ridículo, histórico, años, dando",Enfado,Alta,44835,Alto,2022-05-21 18:59:17,0.895
+175,"nuevo, podcast, nueva, tertulia, wild",Neutral,Alta,1782,Bajo,2022-05-24 14:51:56,0.974
+176,"nuevo, podcast, fundadores, globalia, visita",Neutral,Media,1177,Bajo,2022-05-26 16:17:32,0.631
+177,"algún, partidillo, equipos, amateurs",Neutral,Alta,16032,Alto,2022-05-28 15:46:24,0.995
+178,"liverpool, desde, nací",Neutral,Alta,25407,Alto,2022-05-28 19:06:39,0.77
+179,"objetivamente, épica, remontadas, surrealistas, madrid",Neutral,Alta,19542,Alto,2022-05-28 21:03:45,0.863
+180,"ojalá, liverpool, marque, madrid",Neutral,Alta,8481,Medio,2022-05-28 21:27:09,0.982
+181,"madrid, ganando, champions, superar, solo",Sorpresa,Alta,91688,Viral,2022-05-28 21:34:28,0.946
+182,madrid,Neutral,Media,15022,Alto,2022-05-28 22:11:31,0.521
+183,"solo, pudiera, borrar, cosa, tierra",Neutral,Alta,11368,Alto,2022-05-29 20:14:37,0.968
+184,"apetece, montón, semana, volver, rincón",Alegría,Alta,31493,Alto,2022-05-31 11:56:39,0.99
+185,"nuevo, podcast, tertulia, semanal, vuestro",Neutral,Alta,1044,Bajo,2022-05-31 14:45:11,0.978
+186,"tamayo, somos, nosotros, intentando, vivir",Neutral,Alta,5349,Medio,2022-05-31 18:40:37,0.977
+187,"disney, puedes, dejar, matar, star",Neutral,Media,26045,Alto,2022-06-01 03:13:50,0.646
+188,"espera, veredicto, juicio, johnny, depp",Neutral,Alta,18453,Alto,2022-06-01 18:36:53,0.947
+189,"johnny, depp",Neutral,Alta,96015,Viral,2022-06-01 19:47:54,0.951
+190,"domingo, regreso, rincón, giorgio, oficial",Neutral,Alta,12759,Alto,2022-06-02 12:27:16,0.829
+191,"nuevo, podcast, darma, visita, charla",Neutral,Media,1661,Bajo,2022-06-02 15:09:31,0.703
+192,"creé, canal, subir, entero, gameplay",Neutral,Alta,13870,Alto,2022-06-03 00:31:13,0.941
+193,"acerca, época, tener, buena, salud",Neutral,Alta,62607,Viral,2022-06-04 12:17:21,0.885
+194,"gente, preguntan, estoy, partido, djmariio",Alegría,Alta,15142,Alto,2022-06-04 18:10:30,0.983
+195,"mucho, destapado, bote, ketchup, tamayostuff",Neutral,Alta,6072,Medio,2022-06-05 00:46:02,0.976
+196,"nuevo, vídeo, prometido, deuda, regreso",Neutral,Alta,2751,Bajo,2022-06-05 14:11:52,0.803
+197,"rafa, nadal, puto, padre, españa",Alegría,Alta,20326,Alto,2022-06-05 15:32:56,0.874
+198,"pruebas, mejor, culo, españa, superáis",Sorpresa,Alta,33300,Alto,2022-06-07 13:22:09,0.774
+199,"nuevo, podcast, nueva, tertulia, semanal",Neutral,Alta,1119,Bajo,2022-06-07 14:44:51,0.962
+200,"gente, estoy, preparando, debate, capitalismo",Neutral,Alta,48123,Alto,2022-06-07 19:51:44,0.916
+201,"nuevo, podcast, reúno, intenso, conoceremos",Alegría,Alta,1748,Bajo,2022-06-09 15:01:55,0.901
+202,"pregunta, cuándo, empieza",Neutral,Alta,11397,Alto,2022-06-09 22:55:57,0.989
+203,"verdad, entiendo, remake, last, juego",Enfado,Alta,12214,Alto,2022-06-09 23:14:11,0.888
+204,"justo, semana, estaré, punto, empezar",Alegría,Alta,17110,Alto,2022-06-11 12:15:52,0.994
+205,"serio, gente, quiere, follar, vaporeon",Sorpresa,Media,32459,Alto,2022-06-12 15:48:29,0.75
+206,"junio, wild, project, miércoles, entrevista",Alegría,Alta,7844,Medio,2022-06-13 21:53:55,0.979
+207,"nuevo, podcast, siro, lópez, pasa",Alegría,Alta,2021,Bajo,2022-06-15 14:58:31,0.908
+208,"final, fantasy, rebirth, hype, putas",Sorpresa,Media,5260,Medio,2022-06-16 22:25:39,0.543
+209,"diego, ruzzarin, estaba, invitado, podido",Enfado,Alta,7474,Medio,2022-06-17 14:12:14,0.912
+210,"twitter, traigo, comunista, militante, hate",Enfado,Alta,7430,Medio,2022-06-17 14:54:33,0.869
+211,"resumen, creo, idea, debate, entre",Neutral,Alta,13064,Alto,2022-06-17 15:07:04,0.975
+212,"dejemos, drama, sábado, junio, hora",Neutral,Alta,4576,Medio,2022-06-17 20:50:18,0.978
+213,"resubido, tweet, había, equivocado, hora",Neutral,Alta,1924,Bajo,2022-06-17 20:52:19,0.926
+214,"empieza, horas, directo, https, youtu",Neutral,Media,6684,Medio,2022-06-18 13:39:11,0.691
+215,"horas, directo, wild, project, podcast",Neutral,Alta,3277,Medio,2022-06-18 14:08:41,0.86
+216,"número, tendencias, youtube, gracias, habéis",Alegría,Alta,20006,Alto,2022-06-19 21:16:25,0.993
+217,"cosas, bonitas, wild, project, familia",Alegría,Alta,11292,Alto,2022-06-22 10:36:04,0.996
+218,"nuevo, podcast, dross, tenemos, charlita",Alegría,Media,3539,Medio,2022-06-23 14:48:51,0.747
+219,"preguntan, poder, estar, invitado, maravillosa",Alegría,Alta,26446,Alto,2022-06-23 20:46:13,0.99
+220,"mejor, combate, diferencia, momo, viruzz",Alegría,Media,46228,Alto,2022-06-25 02:22:06,0.733
+221,"viene, solo, pido, jagger, logan",Neutral,Alta,67485,Viral,2022-06-26 14:56:33,0.91
+222,"daros, noticia, padre, sido, operado",Alegría,Alta,38503,Alto,2022-06-26 18:32:13,0.98
+223,"juro, skrillex, primo, cuenca",Neutral,Alta,68299,Viral,2022-06-26 19:24:43,0.866
+224,"último, podcast, antes, vacaciones, tertulia",Alegría,Media,2495,Bajo,2022-06-28 14:31:58,0.531
+225,"ghislaine, maxwell, amante, confidente, jeffrey",Asco,Baja,13555,Alto,2022-06-28 22:39:39,0.447
+226,"pues, parece, espectacular, muchos, metaleros",Alegría,Alta,33188,Alto,2022-07-06 18:18:30,0.996
+227,"elon, musk, final, compra, twitter",Neutral,Alta,20178,Alto,2022-07-10 12:29:49,0.965
+228,"intentado, hacer, kamehameha, junto, compañeros",Neutral,Alta,16489,Alto,2022-07-10 13:00:35,0.93
+229,"vale, acaba, mundo",Neutral,Alta,16467,Alto,2022-07-12 00:58:29,0.919
+230,"mejor, visto, muchos, años",Alegría,Alta,3096,Medio,2022-07-12 19:43:52,0.958
+231,"netflix, favor, deja, adaptar, animes",Enfado,Alta,23092,Alto,2022-07-15 16:13:58,0.857
+232,"pasado, tener, subir, chaval, alevín",Neutral,Media,30139,Alto,2022-07-16 12:14:52,0.654
+233,"esperando, tarde, paseo, tanto, calor",Neutral,Alta,10367,Alto,2022-07-20 13:53:55,0.986
+234,"final, temporada, taberna, albert, motenai",Neutral,Alta,1089,Bajo,2022-07-20 15:46:35,0.964
+235,"vacaciones, tiempo, mundo, vuelve, completamente",Neutral,Alta,13344,Alto,2022-07-20 20:17:55,0.904
+236,"hubiera, encantado, estar, estrena, rubiusx",Alegría,Alta,14830,Alto,2022-07-21 18:53:33,0.994
+237,"veces, algo, pequeño, suelo, entra",Neutral,Media,12547,Alto,2022-07-24 14:43:44,0.709
+238,"contestad, emoji, gusta, atrae, persona",Neutral,Alta,23848,Alto,2022-07-26 20:50:34,0.962
+239,"grande, eres, brandon, moreno",Alegría,Alta,8210,Medio,2022-07-31 03:51:07,0.993
+240,"entro, twitter, después, bastante, tiempo",Neutral,Alta,18682,Alto,2022-08-02 20:57:17,0.975
+241,"podría, mejor, foto, historia, ovni",Sorpresa,Alta,105870,Viral,2022-08-14 14:10:56,0.978
+242,"black, freezer, basta, inclusión, forzada",Enfado,Alta,20960,Alto,2022-08-19 21:50:42,0.939
+243,"contento, amigo, pablo, salum, leyantisectas",Alegría,Alta,6685,Medio,2022-08-20 01:16:23,0.996
+244,"temporada, nueva, madrid, sigue, siendo",Enfado,Alta,14046,Alto,2022-08-20 21:31:55,0.801
+245,"famosos, verano, fotos, yates, mansiones",Neutral,Media,18723,Alto,2022-08-26 14:49:17,0.68
+246,,Neutral,Media,12779,Alto,2022-08-28 18:59:47,0.522
+247,"cumplo, años",Alegría,Alta,64589,Viral,2022-08-29 00:41:31,0.849
+248,"llega, septiembre, terminan, vacaciones, regresa",Alegría,Alta,15814,Alto,2022-09-01 17:54:01,0.987
+249,"xavineta, turbo",Neutral,Alta,15588,Alto,2022-09-03 20:56:43,0.886
+250,"rewind, hispano, mueve, habrá",Neutral,Alta,31349,Alto,2022-09-04 16:45:07,0.987
+251,"septiembre, vuelve, wild, project, comenzamos",Alegría,Alta,20502,Alto,2022-09-05 17:44:32,0.989
+252,"mensaje, importante",Neutral,Alta,8619,Medio,2022-09-07 11:46:59,0.963
+253,"queen, when, meghan, markle, comes",Neutral,Alta,717623,Viral,2022-09-08 13:15:29,0.846
+254,"nuevo, vídeo, regresa, wild, project",Alegría,Alta,5317,Medio,2022-09-08 13:53:11,0.986
+255,"foto, actualicéis, miniaturas, nada",Neutral,Alta,13947,Alto,2022-09-08 16:20:41,0.993
+256,"amigos, streamers, youtubers, regresado, después",Neutral,Media,34760,Alto,2022-09-09 12:59:54,0.732
+257,"tony, ferguson, nate, díaz, llega",Alegría,Alta,2406,Bajo,2022-09-11 04:05:57,0.89
+258,"nuevo, podcast, regresan, tertulias, cada",Neutral,Alta,1197,Bajo,2022-09-13 14:25:47,0.766
+259,"miércoles, tenido, problemas, técnicos, grabando",Alegría,Alta,4977,Medio,2022-09-14 22:58:59,0.797
+260,"jueves, tarde, hora, española, especial",Neutral,Alta,1023,Bajo,2022-09-15 03:32:53,0.799
+261,"yendo, blanco, gana, champions, menos",Enfado,Media,22987,Alto,2022-09-15 12:26:57,0.586
+262,"nuevo, podcast, directo, pocos, minutos",Neutral,Alta,926,Bajo,2022-09-15 14:39:41,0.904
+263,"amores, noviembre, publico, nuevo, libro",Neutral,Alta,7371,Medio,2022-09-16 12:06:54,0.995
+264,"haya, polémica, jugador, fútbol, baile",Enfado,Alta,17373,Alto,2022-09-17 11:16:37,0.872
+265,"igual, elfos, negros, tolkien, remueve",Enfado,Alta,15352,Alto,2022-09-17 12:37:16,0.858
+266,"polémica, alrededor, tenía, muchas, ganas",Enfado,Media,3560,Medio,2022-09-17 12:57:42,0.73
+267,"venga, domingo, vídeo, rincón, giorgio",Neutral,Alta,10870,Alto,2022-09-17 20:23:35,0.953
+268,"gusta, mucho, idea, protagonistas, sean",Neutral,Alta,44257,Alto,2022-09-18 14:39:44,0.985
+269,"nuevo, vídeo, regreso, rincón, giorgio",Neutral,Alta,2049,Bajo,2022-09-18 15:15:55,0.979
+270,"nuevo, podcast, tertulia, especial, rosa",Alegría,Alta,1479,Bajo,2022-09-20 14:35:37,0.959
+271,"nuevo, podcast, anita, mateu, sorpresas",Alegría,Alta,1912,Bajo,2022-09-22 14:08:02,0.964
+272,"amigos, amigas, estaré, directo, canal",Neutral,Alta,821,Bajo,2022-09-22 19:20:04,0.949
+273,"acabo, darme, cuenta, residente, pueblo",Sorpresa,Alta,9870,Medio,2022-09-23 13:10:55,0.91
+274,"nuevo, podcast, tarde, visitan, cracks",Alegría,Alta,2463,Bajo,2022-09-27 12:54:55,0.977
+275,"padres, normales, mundo, mandan, saludos",Neutral,Alta,5994,Medio,2022-09-28 18:22:01,0.995
+276,"nuevo, podcast, ayax, prok, hablan",Alegría,Alta,1245,Bajo,2022-09-29 14:45:07,0.996
+277,"muchos, está, saliendo, mensaje, error",Neutral,Alta,2553,Bajo,2022-09-30 13:53:28,0.885
+278,"muerto, admirado, jesús, quintero, mejores",Tristeza,Alta,5223,Medio,2022-10-03 20:39:13,0.837
+279,"nuevo, podcast, tertulia, genios, darma",Neutral,Media,1287,Bajo,2022-10-04 14:32:30,0.593
+280,"dejaros, salseos, mejor, apple, tendrá",Enfado,Alta,9289,Medio,2022-10-04 15:31:41,0.933
+281,"pues, quedado, buena, noche, europa",Neutral,Alta,9629,Medio,2022-10-04 20:58:21,0.876
+282,"sido, robo, jugado, culo, partido",Enfado,Media,13310,Alto,2022-10-04 21:31:27,0.537
+283,"nuevo, podcast, darma, kira, sensei",Alegría,Alta,1069,Bajo,2022-10-06 15:01:18,0.966
+284,"like, queréis, vídeo, canal, historia",Neutral,Alta,66281,Viral,2022-10-09 13:08:59,0.983
+285,"nuevo, podcast, espero, respeten, nueva",Neutral,Alta,1053,Bajo,2022-10-11 14:17:56,0.876
+286,"puto, culebrón, mbappé, vuelva, abrirse",Sorpresa,Media,9253,Medio,2022-10-11 17:42:07,0.614
+287,"canal, locuras, grandes, visto, vida",Alegría,Media,4130,Medio,2022-10-11 23:19:01,0.57
+288,"favor, pegue, partido, potra, madrid",Neutral,Media,14480,Alto,2022-10-12 20:43:13,0.691
+289,"podcast, creo, sinceramente, mejores, historia",Alegría,Media,14541,Alto,2022-10-13 14:24:19,0.713
+290,"nuevo, podcast, david, jiménez, exdirector",Alegría,Alta,2885,Medio,2022-10-13 14:37:56,0.98
+291,"somos, malos",Neutral,Media,23004,Alto,2022-10-16 15:32:50,0.53
+292,"eric, garcía, sergi, roberto, pueden",Neutral,Alta,21646,Alto,2022-10-16 16:33:27,0.961
+293,"nuevo, podcast, tertulia, cada, semana",Neutral,Media,910,Bajo,2022-10-18 15:11:16,0.748
+294,"pues, final, tendré, hacer, serie",Alegría,Alta,8626,Medio,2022-10-21 13:23:23,0.797
+295,"nuevo, vídeo, habíais, pedido, locos",Alegría,Media,3209,Medio,2022-10-21 14:04:08,0.556
+296,"podría, aparecer, champions",Neutral,Alta,22638,Alto,2022-10-23 19:24:59,0.99
+297,"internet, sitio, peligroso, mucho, odio",Enfado,Baja,19243,Alto,2022-10-24 14:23:36,0.411
+298,"nuevo, podcast, tertulia, cada, semana",Alegría,Media,796,Bajo,2022-10-25 14:39:29,0.502
+299,"miércoles, empieza, semana, halloween, rincón",Alegría,Alta,6265,Medio,2022-10-25 21:44:51,0.969
+300,"comienza, semana, halloween, empezamos, fuertes",Sorpresa,Baja,1667,Bajo,2022-10-26 14:55:25,0.493
+301,"genio, ayuda, montar, nuevo, ordenador",Alegría,Alta,2982,Medio,2022-10-26 17:27:49,0.996
+302,"champions, like",Neutral,Alta,3924,Medio,2022-10-26 20:00:20,0.973
+303,"esland, mexico, tengo, tema, debate",Neutral,Alta,47441,Alto,2022-10-27 12:54:26,0.992
+304,"noviembre, estar, barcelona, fnac, triangle",Alegría,Alta,1651,Bajo,2022-10-27 13:22:24,0.877
+305,"semana, halloween, seguimos, vídeo, diario",Neutral,Alta,1402,Bajo,2022-10-27 14:13:49,0.827
+306,"nuevo, podcast, crack, juan, soto",Alegría,Alta,1081,Bajo,2022-10-27 15:52:38,0.994
+307,"puedo, esperar, anuncio, sábado, vuelve",Alegría,Alta,7963,Medio,2022-10-27 18:59:22,0.99
+308,"final, esland, mexico, provocado, especie",Enfado,Media,62974,Viral,2022-10-28 14:03:56,0.603
+309,"nuevo, vídeo, semana, halloween, terrifier",Neutral,Alta,1505,Bajo,2022-10-28 14:37:27,0.867
+310,"like, está, gustando, mucho, semana",Alegría,Alta,10417,Alto,2022-10-28 19:17:45,0.871
+311,"hora, directo, jugando, resident, evil",Alegría,Alta,1378,Bajo,2022-10-29 19:55:10,0.986
+312,"expresé, horrible, quizás, preparado, intelectualmente",Tristeza,Baja,16676,Alto,2022-10-30 15:03:58,0.489
+313,"jake, paul, ganó, anderson, silva",Neutral,Media,5543,Medio,2022-10-30 15:35:15,0.52
+314,"nuevo, vídeo, semana, halloween, toca",Neutral,Media,1042,Bajo,2022-10-30 15:46:24,0.622
+315,"gana, liga, copa, madrid, champions",Neutral,Alta,849,Bajo,2022-10-30 16:11:05,0.902
+316,"último, vídeo, semana, halloween, termina",Neutral,Media,1324,Bajo,2022-10-31 15:09:43,0.506
+317,"podcast, especial, halloween, recopilación, mejores",Alegría,Alta,962,Bajo,2022-10-31 18:48:38,0.896
+318,"semana, halloween, canal, sido, mayor",Alegría,Alta,7960,Medio,2022-10-31 19:53:36,0.995
+319,"nuevo, podcast, eduardo, sáenz, cabezón",Alegría,Alta,1310,Bajo,2022-11-03 16:00:15,0.992
+320,"podéis, encontrar, librerías, nuevo, libro",Alegría,Alta,5380,Medio,2022-11-03 16:55:29,0.949
+321,"mejores, defensas, historia, club, leyenda",Alegría,Alta,9202,Medio,2022-11-03 19:13:28,0.996
+322,"metido, algo",Sorpresa,Media,5352,Medio,2022-11-05 22:26:19,0.689
+323,"nuevo, podcast, tertulia, cada, semana",Alegría,Media,767,Bajo,2022-11-08 15:27:20,0.646
+324,"siempre, apunto, joder, francia, ibaillanos",Neutral,Alta,38971,Alto,2022-11-08 20:37:21,0.89
+325,"nuevo, vídeo, zazza, italiano, visita",Neutral,Alta,1928,Bajo,2022-11-10 15:17:47,0.878
+326,"nuevo, podcast, mundomaldini, visita, especial",Neutral,Alta,1987,Bajo,2022-11-15 15:51:29,0.979
+327,"putin, estate, tranquilo, anda",Neutral,Alta,16847,Alto,2022-11-16 03:16:29,0.785
+328,"salir, juego, será, simulador, jesucristo",Neutral,Alta,17101,Alto,2022-11-16 20:46:17,0.975
+329,"nuevo, podcast, oswald, aulestia, falsificadores",Alegría,Media,1500,Bajo,2022-11-17 15:12:07,0.703
+330,"nuevo, vídeo, hombre, estuvo, días",Neutral,Baja,1744,Bajo,2022-11-20 16:00:59,0.323
+331,"sido, arabia, saudí, desde, pequeño",Neutral,Alta,27104,Alto,2022-11-22 13:41:53,0.936
+332,"mundial, loco",Neutral,Media,8656,Medio,2022-11-22 14:23:02,0.609
+333,"nuevo, podcast, tertulia, cada, semana",Alegría,Media,716,Bajo,2022-11-22 15:38:42,0.688
+334,"amores, madrileños, lunes, estaré, querida",Neutral,Alta,930,Bajo,2022-11-22 17:02:29,0.891
+335,"rápido, contestad, pensar, quién, gana",Neutral,Media,1155,Bajo,2022-11-23 13:41:02,0.723
+336,"luis, padrique, nuestro, dios, subido",Neutral,Alta,28110,Alto,2022-11-23 17:53:39,0.968
+337,"nuevo, podcast, antonio, fernandes, hacker",Alegría,Alta,941,Bajo,2022-11-24 15:46:00,0.964
+338,"youtuber, streamer, promedio, levantarse, like",Neutral,Alta,13545,Alto,2022-11-27 13:43:47,0.992
+339,"quién, gana, rápido",Neutral,Alta,994,Bajo,2022-11-27 14:38:55,0.937
+340,"luis, padrique, confío",Neutral,Media,4296,Medio,2022-11-27 19:42:25,0.641
+341,"fuera, coñas, antes, morir, necesito",Neutral,Alta,49252,Alto,2022-11-27 19:57:27,0.881
+342,"haber, tertulia, semana, estoy, viaje",Alegría,Alta,4439,Medio,2022-11-29 14:42:20,0.903
+343,"muchas, gracias",Alegría,Alta,14006,Alto,2022-11-30 20:11:39,0.989
+344,"tiene, eliminar, alguien, sean, tíos",Neutral,Alta,27567,Alto,2022-12-01 20:10:26,0.886
+345,"tiene, historias, surrealistas, interesantes, injustas",Tristeza,Alta,11024,Alto,2022-12-02 13:50:44,0.938
+346,"nuevo, podcast, coronel, pedro, baños",Neutral,Alta,2357,Bajo,2022-12-02 15:19:29,0.98
+347,"nuevo, podcast, tertulia, cada, semana",Alegría,Alta,1048,Bajo,2022-12-06 15:07:48,0.956
+348,"españa, dado, brote, barcelonitis, aguda",Neutral,Alta,58825,Viral,2022-12-06 17:51:29,0.92
+349,"nuevo, podcast, juan, ramón, rallo",Neutral,Media,1799,Bajo,2022-12-08 15:13:47,0.524
+350,"igual, pase, elden, ring, juego",Neutral,Alta,20902,Alto,2022-12-09 03:40:10,0.969
+351,"pues, final, ganado, goty, bill",Neutral,Alta,13562,Alto,2022-12-09 03:59:45,0.849
+352,klinton,Neutral,Alta,8915,Medio,2022-12-09 04:03:39,0.827
+353,"nuevo, podcast, viene, genio, humor",Alegría,Alta,928,Bajo,2022-12-16 15:16:23,0.991
+354,"caen, argentinos, franceses, tienen, caer",Enfado,Alta,75734,Viral,2022-12-18 14:32:55,0.906
+355,"madre, argentina, meter, saco",Sorpresa,Media,12866,Alto,2022-12-18 15:41:24,0.503
+356,"vale, gafado, argentinos",Neutral,Media,10317,Alto,2022-12-18 16:44:39,0.628
+357,"medio, mundo",Neutral,Alta,11579,Alto,2022-12-18 17:37:04,0.788
+358,"gane, quien, vaya, final, espectacular",Alegría,Alta,9816,Medio,2022-12-18 17:48:54,0.995
+359,"messi, tiene, mundial, podemos, decir",Alegría,Alta,200061,Viral,2022-12-18 17:54:56,0.884
+360,"penséis, habéis, tomado, malas, decisiones",Neutral,Alta,26490,Alto,2022-12-18 21:55:02,0.872
+361,"nuevo, podcast, última, tertulia, antes",Alegría,Media,895,Bajo,2022-12-20 15:24:08,0.643
+362,"pues, final, podido, nominado, vamos",Neutral,Alta,34359,Alto,2022-12-20 18:04:49,0.901
+363,"amigo, podcast, horas, videojuegos, amor",Alegría,Alta,1312,Bajo,2022-12-21 19:16:27,0.987
+364,"nuevo, podcast, maravilloso, duro, supervivientes",Alegría,Alta,1961,Bajo,2022-12-22 15:18:42,0.978
+365,"pasado, días, gracias, argentina, dejar",Alegría,Alta,39504,Alto,2022-12-23 02:40:12,0.981
+366,"jodido, esland, matarse, nominados, entre",Tristeza,Media,9005,Medio,2022-12-23 14:13:50,0.732
+367,"mejores, entrevistas, prensa, hecho, interesante",Alegría,Alta,1157,Bajo,2022-12-23 15:22:00,0.851
+368,"estéis, solos, acompañados, celebréis, navidad",Alegría,Alta,8087,Medio,2022-12-24 20:54:13,0.88
+369,"mensaje, auténtico",Neutral,Media,16802,Alto,2022-12-24 21:23:03,0.716
+370,"semana, viene, habrá, podcast, pequeñas",Alegría,Alta,5408,Medio,2022-12-27 14:08:17,0.905
+371,"llego, sacar, colonia, olvidona, hago",Alegría,Alta,41418,Alto,2022-12-29 18:27:18,0.993
+372,"único, mensaje, tiene, importar",Neutral,Alta,15141,Alto,2022-12-31 19:33:14,0.971
+373,"peor, mejor",Neutral,Alta,1286,Bajo,2023-01-01 14:42:34,0.844
+374,"estáis, resaca, mintáis, nada, mejor",Alegría,Alta,2359,Bajo,2023-01-01 16:18:32,0.968
+375,"nominado, definitivamente, vamos, méxico, pasa",Neutral,Media,15863,Alto,2023-01-02 20:41:53,0.627
+376,"conocía, caso, elena, huelva, hasta",Alegría,Alta,7997,Medio,2023-01-03 14:30:51,0.962
+377,"encantaría, saber, cuál, juego, porcentaje",Neutral,Alta,20013,Alto,2023-01-04 13:46:55,0.981
+378,"comunidad, hispana, antes, anunciarse, esland",Neutral,Alta,9753,Medio,2023-01-04 22:09:07,0.949
+379,"gente, intentado, youtube, está, dando",Neutral,Alta,5462,Medio,2023-01-10 17:05:00,0.987
+380,"nuevo, podcast, regresa, tertulia, wild",Alegría,Alta,1408,Bajo,2023-01-11 14:09:22,0.945
+381,"desde, tupac, notorious, había, visto",Sorpresa,Media,89216,Viral,2023-01-12 00:25:01,0.686
+382,"shakira, volviendo, casa, después, grabar",Neutral,Alta,59787,Viral,2023-01-12 02:37:07,0.953
+383,"histéricos, reacción, piqué, anunciar, fichaje",Neutral,Alta,49826,Alto,2023-01-12 14:44:23,0.947
+384,"verano, querían, echar, frenkie, jong",Neutral,Baja,15119,Alto,2023-01-15 20:42:54,0.386
+385,"xavineta, espera, nadie",Alegría,Media,20419,Alto,2023-01-15 21:03:18,0.52
+386,"nuevo, podcast, papa, giorgio, antonio",Alegría,Alta,1054,Bajo,2023-01-17 15:21:26,0.994
+387,"febrero, nace, dogfight, wild, tournament",Alegría,Alta,13790,Alto,2023-01-17 18:31:54,0.762
+388,"nuevo, podcast, juan, carlos, unzué",Neutral,Alta,1794,Bajo,2023-01-19 15:48:50,0.992
+389,"habéis, portado, pocos, minutos, nuevo",Neutral,Alta,7569,Medio,2023-01-22 14:54:22,0.929
+390,"nuevo, vídeo, terrible, caso, becowitz",Neutral,Media,2651,Bajo,2023-01-22 15:09:11,0.657
+391,"nuevo, podcast, tertulia, cada, semana",Neutral,Alta,1424,Bajo,2023-01-24 15:54:55,0.97
+392,"nuevo, podcast, habíais, pedido, durante",Alegría,Alta,7494,Medio,2023-01-26 14:56:03,0.995
+393,"mañana, operan, papi, mandad, besos",Alegría,Alta,9472,Medio,2023-01-26 22:15:10,0.967
+394,"deciros, simplemente, papa, giorgio, dios",Alegría,Alta,98952,Viral,2023-01-27 21:10:24,0.996
+395,"tamayo, unos, premios, internacionales, igual",Neutral,Alta,51040,Viral,2023-01-29 18:51:54,0.968
+396,"ganado, follacamiones, pueden, cerrar, esland",Neutral,Alta,48746,Alto,2023-01-29 20:51:13,0.991
+397,"tamayo, follacamiones, segundoesland",Neutral,Alta,50582,Alto,2023-01-29 22:19:42,0.99
+398,"nuevo, podcast, cada, semana, tertulia",Alegría,Alta,1041,Bajo,2023-01-31 15:39:03,0.982
+399,"nuevo, podcast, carles, porta, periodista",Alegría,Alta,1608,Bajo,2023-02-02 15:28:33,0.977
+400,"influencers, streamers, youtubers, otrosvividores, sigo",Neutral,Alta,13274,Alto,2023-02-09 14:38:04,0.982
+401,"nuevo, podcast, sandra, estok, víctima",Alegría,Alta,1374,Bajo,2023-02-09 15:29:28,0.992
+402,"rápido, quién, gana",Neutral,Alta,780,Bajo,2023-02-12 05:11:57,0.962
+403,"unos, minutos, nuevo, vídeo, rincón",Neutral,Alta,6467,Medio,2023-02-12 16:19:44,0.913
+404,"nuevo, vídeo, caso, yandere, real",Neutral,Alta,1576,Bajo,2023-02-12 16:48:34,0.981
+405,"xokas, separando, violencia, poder, fuerza",Neutral,Alta,93108,Viral,2023-02-16 21:35:31,0.985
+406,"gracias, mensajes, bonitos, ayer, hicimos",Alegría,Alta,81018,Viral,2023-02-18 15:20:34,0.995
+407,"nuevo, podcast, cada, semana, tertulia",Neutral,Alta,1296,Bajo,2023-02-21 15:43:44,0.934
+408,"menos, ganaremos, liga",Neutral,Alta,24204,Alto,2023-02-23 21:55:45,0.936
+409,"subiendo, combates, dogfight, wild, tournament",Alegría,Alta,1627,Bajo,2023-02-24 16:01:11,0.986
+410,amouranth,Alegría,Media,29232,Alto,2023-02-27 22:15:34,0.581
+411,"luzu, fernanfloo, combate, amor, abrazos",Neutral,Media,17330,Alto,2023-02-27 23:58:16,0.596
+412,"nuevo, podcast, tertulia, cada, semana",Alegría,Alta,941,Bajo,2023-02-28 15:57:56,0.97
+413,"nuevo, podcast, jony, viviendoenlacalle, visita",Alegría,Alta,1753,Bajo,2023-03-02 15:26:26,0.988
+414,"jones, madre, parió, mejor, historia",Alegría,Baja,3109,Medio,2023-03-05 05:52:18,0.436
+415,"nuevo, podcast, tertulia, cada, semana",Neutral,Alta,780,Bajo,2023-03-07 15:57:41,0.979
+416,"nuevo, podcast, ilia, topuria, estrella",Neutral,Alta,1439,Bajo,2023-03-09 15:38:03,0.993
+417,"jagger, pasado, tantas, veces, vida",Neutral,Alta,28103,Alto,2023-03-10 16:55:22,0.986
+418,"conocernos, tuvimos, nuestros, menos, final",Tristeza,Alta,113773,Viral,2023-03-11 05:53:59,0.931
+419,"nuevo, podcast, cada, semana, tertulia",Alegría,Media,876,Bajo,2023-03-14 14:55:48,0.549
+420,"nuevo, podcast, impresionante, serio, neurocirujanos",Alegría,Alta,2208,Bajo,2023-03-16 15:28:05,0.985
+421,"nuevo, vídeo, padre, pues, ración",Alegría,Alta,1522,Bajo,2023-03-19 15:15:46,0.986
+422,"estoy, invitado, madrid, desde, palco",Alegría,Alta,22517,Alto,2023-03-19 15:37:02,0.967
+423,"stegen, alemaaaaannnnn, estaba, pensando, jong",Alegría,Alta,12844,Alto,2023-03-19 21:17:50,0.793
+424,"nuevo, podcast, episodio, wild, project",Alegría,Alta,13206,Alto,2023-03-21 15:31:54,0.996
+425,"llegado, casa, padre, saltado, lágrimas",Alegría,Alta,11841,Alto,2023-03-21 17:23:44,0.98
+426,"segunda, parte, podcast, masi, illojuan",Alegría,Alta,2057,Bajo,2023-03-23 16:22:25,0.985
+427,"empezado, serie, resident, evil, remake",Alegría,Alta,4966,Medio,2023-03-23 16:26:32,0.842
+428,"broma, acaban, anunciar, juego, switch",Neutral,Alta,25959,Alto,2023-03-23 22:31:11,0.959
+429,"nuevo, vídeo, seguimos, resident, evil",Alegría,Alta,1021,Bajo,2023-03-24 16:00:06,0.868
+430,"nooooooooooo, muerto, chabelo, significa, apocalipsis",Tristeza,Alta,47962,Alto,2023-03-25 16:51:51,0.916
+431,"contento, exitazo, kings, league, dedicamos",Alegría,Alta,24529,Alto,2023-03-26 21:58:06,0.997
+432,"directo, canal, vuelvo, streamer, ratito",Neutral,Alta,1229,Bajo,2023-03-29 13:23:15,0.984
+433,"nuevo, podcast, tertulia, wild, project",Alegría,Alta,838,Bajo,2023-04-04 14:28:06,0.964
+434,"nuevo, podcast, visita, bojan, krkic",Neutral,Alta,1779,Bajo,2023-04-06 14:55:31,0.885
+435,"genios, tertulia",Alegría,Alta,5907,Medio,2023-04-11 17:38:04,0.751
+436,"venta, libro, papi, cuentos, papa",Alegría,Alta,7347,Medio,2023-04-13 14:33:31,0.994
+437,"mala, época",Neutral,Alta,15504,Alto,2023-04-18 20:40:28,0.974
+438,"nuevo, podcast, calderon, luchado, contra",Alegría,Alta,1146,Bajo,2023-04-20 14:56:08,0.932
+439,"puta, vergüenza, quiten, verificado, gente",Enfado,Alta,47864,Alto,2023-04-21 04:42:40,0.933
+440,"guapo, nuevo, verificado, gracias, elon",Alegría,Alta,28569,Alto,2023-04-22 13:36:56,0.809
+441,"pagar, nada, ponen, verificación, nuevo",Enfado,Media,19502,Alto,2023-04-23 02:37:56,0.664
+442,"estoy, triste, cabreado, organización, firma",Enfado,Alta,20773,Alto,2023-04-23 20:49:00,0.894
+443,"nuevo, podcast, tertulia, cada, semana",Alegría,Alta,749,Bajo,2023-04-25 14:57:22,0.948
+444,"hermosuras, mayo, padre, vamos, hacer",Alegría,Alta,4388,Medio,2023-04-25 15:54:59,0.977
+445,"gracias, habéis, mandado, mensajes, bonitos",Alegría,Alta,6718,Medio,2023-04-25 20:13:49,0.997
+446,"hermosos, tertulia, publicará, mañana, viernes",Alegría,Alta,3112,Medio,2023-05-09 14:50:57,0.988
+447,"youtube, está, pensando, bloquear, adblock",Neutral,Alta,11374,Alto,2023-05-11 12:43:06,0.933
+448,"mundo, felicitar, titán, cumple, años",Alegría,Alta,14513,Alto,2023-05-11 15:51:13,0.993
+449,"nuevo, podcast, amarna, miller, visita",Alegría,Alta,1600,Bajo,2023-05-12 15:05:00,0.996
+450,"padre, madre, espanyol, divorcian",Neutral,Media,15851,Alto,2023-05-14 19:12:13,0.674
+451,"visca, rarísimo, viniendo, depresión, hemos",Alegría,Alta,12041,Alto,2023-05-14 20:57:11,0.996
+452,"grande, madrid",Alegría,Alta,13063,Alto,2023-05-17 20:25:15,0.991
+453,"enfadéis, madrid, culés, llevamos, años",Enfado,Alta,13350,Alto,2023-05-17 22:17:26,0.92
+454,"podcast, estepario, siberiano, lleva, desde",Neutral,Alta,1938,Bajo,2023-05-18 11:47:23,0.985
+455,"ojalá, xokas, tamayo, conocieran, sentaran",Enfado,Media,21325,Alto,2023-05-21 16:04:13,0.526
+456,"veáis, pasa, vídeos, últimos, meses",Neutral,Alta,14412,Alto,2023-05-23 14:15:08,0.901
+457,"nuevo, podcast, mientras, decido, hago",Alegría,Alta,3725,Medio,2023-05-23 14:35:17,0.813
+458,"nuevo, podcast, sigo, monetizar, solo",Alegría,Alta,3564,Medio,2023-05-25 14:59:09,0.977
+459,"visto, imágenes, similares, incluso, reaccionado",Tristeza,Media,10344,Alto,2023-05-28 18:05:43,0.594
+460,"nuevo, podcast, tertulia, cada, semana",Neutral,Alta,1483,Bajo,2023-05-30 14:34:25,0.985
+461,"nuevo, podcast, mariah, oliver, fundadora",Alegría,Alta,1249,Bajo,2023-06-01 14:36:36,0.991
+462,"messi, viene, temporada, tiño, rubio",Neutral,Alta,27681,Alto,2023-06-05 12:48:20,0.849
+463,"saldrá, barato, pulpos, verano",Neutral,Alta,6211,Medio,2023-06-06 14:40:39,0.869
+464,"nuevo, podcast, tertulia, cada, semana",Neutral,Baja,684,Bajo,2023-06-06 15:05:01,0.493
+465,"especial, cine, wild, project, crack",Alegría,Alta,2361,Bajo,2023-06-08 14:41:55,0.994
+466,"guardiola, mejor, entrenador, mundo, busquéis",Neutral,Media,6474,Medio,2023-06-11 05:01:18,0.717
+467,"tenía, dudas, starfield, tiene, pinta",Neutral,Media,2480,Bajo,2023-06-11 21:46:33,0.588
+468,"tras, starfield, baldur, gate, muestra",Alegría,Media,1415,Bajo,2023-06-12 12:16:42,0.743
+469,"después, desastre, firma, jordi, papagiorgioreal",Neutral,Media,1286,Bajo,2023-06-13 14:34:53,0.57
+470,"nuevo, podcast, javi, santaolalla, jasantaolalla",Alegría,Alta,858,Bajo,2023-06-13 15:05:54,0.996
+471,"nuevo, podcast, especial, filosofía, ciencia",Neutral,Alta,1016,Bajo,2023-06-15 15:16:31,0.908
+472,"nuevo, podcast, nacho, siempre, tendremos",Alegría,Alta,767,Bajo,2023-06-20 14:57:34,0.971
+473,"acaba, salir, nuevo, final, fantasy",Alegría,Alta,3954,Medio,2023-06-22 19:25:48,0.887
+474,"sorpresa, nuevo, vídeo, rincón, giorgio",Alegría,Media,2848,Medio,2023-06-25 13:57:50,0.726
+475,"fuera, ibai, pego, tiro, problemas",Neutral,Alta,54190,Viral,2023-06-26 21:58:37,0.851
+476,"sábado, julio, especial, verano, directo",Neutral,Alta,2131,Bajo,2023-07-06 19:44:47,0.967
+477,"hola, buenas, tardes",Neutral,Media,12216,Alto,2023-07-07 15:27:01,0.699
+478,"pasará, especial, verano, wild, project",Neutral,Alta,2924,Medio,2023-07-08 13:59:03,0.996
+479,"empezamos, locura, https, youtube, live",Neutral,Alta,1725,Bajo,2023-07-08 15:03:17,0.87
+480,"cortado, conexión, directo, motivos, desconocidos",Neutral,Alta,1430,Bajo,2023-07-08 23:28:32,0.987
+481,"mark, zuckerberg, parece, robot, robots",Neutral,Alta,8322,Medio,2023-07-13 01:14:49,0.94
+482,"brad, pitt, años, tomó, serio",Neutral,Alta,17335,Alto,2023-07-16 13:51:08,0.863
+483,"alcaraz, está, poniendo, cara, nadal",Sorpresa,Alta,8373,Medio,2023-07-16 17:55:30,0.803
+484,"cariño, momento, comprar, comida",Neutral,Alta,13174,Alto,2023-07-18 13:06:40,0.982
+485,"ciencia, ficción, star, wars",Neutral,Alta,7839,Medio,2023-07-24 13:25:25,0.936
+486,"nueva, twitter, parece, diseñada, primo",Neutral,Alta,7480,Medio,2023-07-26 12:54:40,0.976
+487,"david, grusch, alto, cargo, inteligencia",Sorpresa,Baja,44293,Alto,2023-07-27 14:59:41,0.306
+488,pierdo,Neutral,Alta,6001,Medio,2023-07-28 14:34:08,0.861
+489,"conozcan, entienden, lore",Neutral,Alta,9255,Medio,2023-07-28 17:19:05,0.978
+490,real,Neutral,Baja,62994,Viral,2023-08-09 14:43:00,0.496
+491,"primera, táctica, enseña, bordalás, equipos",Neutral,Alta,16253,Alto,2023-08-13 20:34:20,0.952
+492,"momentos, verano, padre, fiesta, espuma",Alegría,Alta,24477,Alto,2023-08-16 18:27:07,0.98
+493,"estoy, poco, desconectado, verano, quiero",Tristeza,Alta,7011,Medio,2023-08-18 21:09:51,0.959
+494,"sigue, show, padre, mexico",Neutral,Alta,5967,Medio,2023-08-27 15:57:30,0.981
+495,"padre, siempre, gana",Alegría,Alta,1434,Bajo,2023-08-27 16:06:26,0.934
+496,"panas, celebrando, cumple, gracias, vuestros",Alegría,Alta,13240,Alto,2023-08-28 16:31:02,0.997
+497,"starfield, juego, bethesda, school, bueno",Neutral,Media,4305,Medio,2023-09-01 13:57:29,0.542
+498,"cada, hora, juego, starfield, gusta",Alegría,Alta,5913,Medio,2023-09-06 16:47:27,0.966
+499,"strickland, acaba, ganando, puntos, adesanya",Neutral,Alta,1764,Bajo,2023-09-10 04:27:38,0.841
+500,"puta, locura, strickland",Sorpresa,Alta,1682,Bajo,2023-09-10 04:35:20,0.932
+501,"mañana, regresa, wild, project, tarde",Alegría,Alta,3841,Medio,2023-09-11 15:00:51,0.93
+502,"regresa, wild, project, https, youtu",Alegría,Alta,2193,Bajo,2023-09-12 14:05:02,0.992
+503,"supuestos, aliens, parecen, extra, black",Sorpresa,Media,55876,Viral,2023-09-13 19:34:12,0.629
+504,"nuevo, podcast, gerardromero, viene, contarme",Neutral,Alta,1798,Bajo,2023-09-14 15:56:30,0.93
+505,"sorpresa, nuevo, vídeo, rincón, giorgio",Neutral,Alta,3669,Medio,2023-09-17 15:48:45,0.934
+506,"nuevo, podcast, tertulia, querida, querido",Alegría,Alta,885,Bajo,2023-09-19 14:56:14,0.992
+507,"amores, dado, ataque, fuerte, vértigo",Neutral,Media,13826,Alto,2023-09-22 17:40:13,0.575
+508,"cara, felicidad, poder, jugar, cualquier",Alegría,Alta,3147,Medio,2023-09-27 14:57:29,0.99
+509,"buenas, noticias, estoy, recuperado, suficiente",Alegría,Alta,3272,Medio,2023-10-03 14:07:08,0.995
+510,"nuevo, podcast, crack, aníbal, bueno",Alegría,Alta,661,Bajo,2023-10-05 14:55:08,0.993
+511,"venga, españa, ilia, topuria, quiero",Neutral,Media,6764,Medio,2023-10-09 21:41:56,0.681
+512,"nuevo, podcast, david, jiménez, regresa",Neutral,Media,1675,Bajo,2023-10-12 14:37:34,0.538
+513,"nuevo, podcast, arkano, visita, hablaremos",Alegría,Alta,962,Bajo,2023-10-19 14:37:33,0.966
+514,"humano, fachero, planeta",Alegría,Media,10414,Alto,2023-10-20 18:41:37,0.64
+515,"volkanovski, nooooooooooooooooooooooooooooooo",Neutral,Alta,5189,Medio,2023-10-21 20:08:09,0.79
+516,"audio, número, indiscutible, hemos, vuelto",Alegría,Alta,4110,Medio,2023-10-22 13:36:07,0.997
+517,"preguntáis, halloween, martes, semana, rincón",Neutral,Alta,6181,Medio,2023-10-27 14:14:44,0.867
+518,"acaba, romper, corazón, pedazos",Tristeza,Alta,21926,Alto,2023-10-29 01:32:33,0.991
+519,"comienza, semana, halloween, cada, contenido",Enfado,Media,2035,Bajo,2023-10-30 14:17:46,0.598
+520,,Neutral,Alta,1189,Bajo,2023-10-31 17:44:03,0.954
+521,"fiesta, trabajando, cabrón, cada, halloween",Alegría,Media,5967,Medio,2023-10-31 21:47:44,0.695
+522,"nuevo, podcast, especial, terror, wild",Neutral,Alta,1367,Bajo,2023-11-01 15:59:38,0.962
+523,"noche, terror, conmigo, directo, especial",Alegría,Alta,1052,Bajo,2023-11-03 20:27:14,0.945
+524,"nuevo, vídeo, terminamos, semana, halloween",Neutral,Media,1184,Bajo,2023-11-05 14:38:46,0.747
+525,"gente, renderizó, sonido, podcast, debo",Neutral,Alta,3450,Medio,2023-11-07 16:43:03,0.954
+526,"nuevo, podcast, tenéis, sonido, maravilloso",Alegría,Alta,740,Bajo,2023-11-08 15:41:16,0.962
+527,"muchos, años, esperando",Neutral,Media,36203,Alto,2023-11-08 15:43:46,0.593
+528,"nuevo, podcast, vamos, romper, tabú",Neutral,Media,1520,Bajo,2023-11-10 15:20:53,0.734
+529,"nuevo, podcast, tertulia, cada, semana",Neutral,Media,790,Bajo,2023-11-14 16:43:23,0.637
+530,"nuevo, podcast, regresa, tertulia, bombazo",Neutral,Alta,730,Bajo,2023-11-21 17:04:26,0.887
+531,"regresa, dogfight, wild, tournament, bare",Alegría,Alta,10333,Alto,2023-11-22 14:00:44,0.805
+532,"holy, shit",Sorpresa,Media,3880,Medio,2023-11-23 11:32:18,0.671
+533,"broma, gusto, fondo, gustaría, fallecido",Tristeza,Alta,30886,Alto,2023-11-28 15:45:32,0.774
+534,"estaré, directo, salva, albert, haciendo",Neutral,Alta,495,Bajo,2023-12-03 18:30:59,0.962
+535,"salida, trailer, podemos, terminado",Neutral,Alta,17260,Alto,2023-12-04 23:52:33,0.977
+536,comprado,Neutral,Alta,22123,Alto,2023-12-05 00:09:29,0.95
+537,"protagonistas, sean, pareja, parece, brutal",Alegría,Alta,36401,Alto,2023-12-05 02:11:35,0.757
+538,"grande, referencia, padre",Alegría,Alta,36841,Alto,2023-12-05 23:17:17,0.945
+539,"puesto, entradas, extra, venta, dogfight",Neutral,Alta,970,Bajo,2023-12-06 13:44:31,0.979
+540,"hideo, kojima, terror, perfección",Alegría,Baja,4169,Medio,2023-12-08 02:38:58,0.492
+541,"baldur, gate, goty, juego, década",Neutral,Alta,10720,Alto,2023-12-08 04:04:49,0.992
+542,"abra, debate, problema, salud, obesidad",Neutral,Media,30631,Alto,2023-12-08 14:46:41,0.739
+543,"bueno, hemos, perdido, equipo, grande",Neutral,Alta,5044,Medio,2023-12-10 22:21:10,0.949
+544,"joder, pues, habla, juan",Neutral,Media,10880,Alto,2023-12-13 17:15:01,0.521
+545,"nueva, social, fuera, coñas, podéis",Neutral,Media,314,Bajo,2023-12-16 15:58:13,0.664
+546,"latinos, pueden, confirmar",Neutral,Alta,16402,Alto,2023-12-17 03:16:04,0.91
+547,"tony, ferguson, queremos, eres, leyenda",Neutral,Alta,3118,Medio,2023-12-17 04:02:50,0.962
+548,"españoles, confirmen",Neutral,Alta,59786,Viral,2023-12-18 14:56:27,0.807
+549,"especial, navidad, directo, tarde, wild",Alegría,Alta,991,Bajo,2023-12-19 13:58:34,0.956
+550,"participación, rewind, hispano, repartiendo, cera",Neutral,Media,7376,Medio,2023-12-22 22:54:15,0.639
+551,"feliz, navidad",Alegría,Alta,23577,Alto,2023-12-25 16:46:08,0.942
+552,"verdad, muerto, black, alien, novia",Neutral,Baja,18510,Alto,2023-12-26 23:13:58,0.468
+553,"corea, suicidios, algunos, abran, ojos",Tristeza,Media,23458,Alto,2023-12-27 11:17:09,0.728
+554,"estáis, jodidos, tocado, pasar, casa",Tristeza,Alta,65472,Viral,2023-12-31 23:14:06,0.761
+555,"rellena, texto",Neutral,Alta,30788,Alto,2024-01-05 22:07:15,0.991
+556,posibilidades,Neutral,Media,6699,Medio,2024-01-08 00:31:54,0.648
+557,"otro, estuve, horas, podcast, amigo",Neutral,Alta,2221,Bajo,2024-01-12 17:09:36,0.967
+558,"estoy, tiempo, hacerme, madrid",Neutral,Alta,38885,Alto,2024-01-14 20:11:22,0.948
+559,"debate, tendría, publicarlo, pornhub",Neutral,Alta,42992,Alto,2024-01-18 21:46:44,0.99
+560,"bueno, joao, felix, quiere",Alegría,Alta,9943,Medio,2024-01-21 19:21:39,0.84
+561,"tiburoooooon, torres",Alegría,Alta,8579,Medio,2024-01-21 19:23:56,0.795
+562,"this, flat, earthers, think, attack",Neutral,Alta,449754,Viral,2024-01-24 02:10:38,0.844
+563,"nintendo, elijo, usado, demanda, millonaria",Alegría,Alta,5231,Medio,2024-01-25 14:30:37,0.985
+564,"cada, like, años, vida, fenómenos",Alegría,Alta,39388,Alto,2024-01-26 20:59:38,0.96
+565,"legendario, carl, weathers, apollo, creed",Tristeza,Alta,18756,Alto,2024-02-02 20:13:27,0.991
+566,"semana, dogfight, wild, tournament, impact",Neutral,Alta,4085,Medio,2024-02-05 17:18:44,0.986
+567,"microsoft, anuncia, convierte, compañía, third",Enfado,Media,900,Bajo,2024-02-06 16:56:29,0.619
+568,"careos, impact, directo, https, youtube",Neutral,Alta,3100,Medio,2024-02-08 18:47:40,0.91
+569,"coño, pasado",Sorpresa,Alta,21318,Alto,2024-02-08 23:02:18,0.833
+570,"quedan, horas, evento, tenemos, puto",Neutral,Alta,20280,Alto,2024-02-08 23:41:58,0.951
+571,"comienza, dogfight, wild, tournament, impact",Neutral,Alta,7055,Medio,2024-02-09 18:14:30,0.977
+572,gracias,Alegría,Alta,55017,Viral,2024-02-10 02:28:07,0.982
+573,"marzo, sale, nuevo, libro, venta",Neutral,Alta,5666,Medio,2024-02-15 14:13:47,0.973
+574,"nadie, perfecto, ganado, clip, siguientes",Alegría,Alta,17926,Alto,2024-02-16 21:41:38,0.972
+575,"chica, imperfecta, genial",Neutral,Media,95818,Viral,2024-02-17 06:35:03,0.508
+576,"locura, quién, lleva",Neutral,Alta,12185,Alto,2024-02-17 18:48:31,0.88
+577,"ilia, finaliza, combate, tercer, round",Neutral,Alta,11977,Alto,2024-02-18 05:28:05,0.99
+578,"quiero, gane, ilia, volkanovski, puto",Neutral,Alta,17955,Alto,2024-02-18 05:43:50,0.889
+579,"dicho, ilia, topuria, campeón, mundo",Alegría,Alta,42303,Alto,2024-02-18 05:59:18,0.985
+580,histórico,Neutral,Media,33226,Alto,2024-02-18 06:01:35,0.615
+581,"gente, temas, personales, nada, malo",Alegría,Alta,7284,Medio,2024-02-27 14:32:52,0.865
+582,"veces, odio, mundo, fallecido, forma",Tristeza,Alta,123584,Viral,2024-03-08 04:45:54,0.991
+583,"épico, superbowl",Alegría,Baja,38406,Alto,2024-03-11 03:22:36,0.348
+584,"diosito, solo, pido, cubarsí, lamine",Neutral,Alta,34786,Alto,2024-03-12 21:57:37,0.832
+585,"sale, oficialmente, venta, nuevo, libro",Neutral,Alta,4320,Medio,2024-03-14 05:18:44,0.976
+586,"regreso, rincón, vídeo, gustan, tanto",Neutral,Alta,1997,Bajo,2024-03-24 14:37:29,0.783
+587,"estoy, preparando, debate, cambio, climático",Neutral,Alta,20409,Alto,2024-03-30 15:05:40,0.997
+588,"amigos, gracias, perfiles, debate, cambio",Neutral,Alta,5889,Medio,2024-04-02 16:55:53,0.975
+589,"viernes, estoy, madrid, firmando, nuevo",Neutral,Media,923,Bajo,2024-04-08 13:28:35,0.552
+590,culés,Neutral,Alta,7732,Medio,2024-04-16 18:47:15,0.887
+591,"orgulloso, perdido, expulsión, durísima, seguramente",Alegría,Alta,37459,Alto,2024-04-16 20:56:43,0.997
+592,"cosas, pesadas, universo",Neutral,Alta,26507,Alto,2024-04-17 21:50:36,0.88
+593,"buenas, noticias, anatomía, edición, chivado",Alegría,Alta,1282,Bajo,2024-04-22 20:02:49,0.97
+594,"miau, real",Neutral,Media,3129,Medio,2024-05-08 20:05:25,0.517
+595,"odio, madrid, serio",Enfado,Alta,46659,Alto,2024-05-08 20:56:36,0.813
+596,real,Sorpresa,Alta,13979,Alto,2024-05-10 11:19:25,0.871
+597,"cumple, papi, mundo, felicitarlo",Alegría,Alta,39767,Alto,2024-05-11 15:12:55,0.936
+598,"oigan, planetadelibros, penguinlibros, podéis, dejar",Enfado,Alta,8722,Medio,2024-05-22 11:37:24,0.972
+599,"apoyo, xavi, quizás, demasiado, buena",Enfado,Alta,24783,Alto,2024-05-24 12:01:25,0.873
+600,"odio, haber, nacido, época",Neutral,Media,31944,Alto,2024-06-01 21:57:39,0.599
+601,"estoy, directo, culés, salva, https",Neutral,Alta,409,Bajo,2024-06-02 18:20:06,0.971
+602,"único, bueno, mbappé, fiche, madrid",Neutral,Baja,21084,Alto,2024-06-03 17:46:00,0.449
+603,"mejor, conferencia, videojuegos, quizás, momento",Neutral,Media,3068,Medio,2024-06-07 22:59:25,0.716
+604,"regalito, domingo, nuevo, vídeo, rincón",Alegría,Alta,906,Bajo,2024-06-09 14:21:00,0.992
+605,"viernes, junio, estar, junto, papagiorgioreal",Neutral,Alta,725,Bajo,2024-06-10 17:47:15,0.915
+606,"amigos, empieza, mundo",Neutral,Alta,11529,Alto,2024-06-10 19:31:59,0.967
+607,"calentando, motores, liadas",Alegría,Baja,25499,Alto,2024-06-12 12:43:55,0.394
+608,"will, smith, viene, cantar, darse",Neutral,Alta,6770,Medio,2024-06-13 19:22:29,0.949
+609,"brutal, alguien, will, smith, actúe",Alegría,Alta,40971,Alto,2024-06-13 21:45:56,0.961
+610,"hago, muchas, bromas, espanyol, alegro",Alegría,Alta,4302,Medio,2024-06-23 18:45:37,0.929
+611,"venga, rompemos, internet, recordad, jesús",Neutral,Alta,14863,Alto,2024-06-28 13:01:35,0.972
+612,"acabo, despertar, después, locura, ayer",Alegría,Alta,60927,Viral,2024-06-29 14:54:24,0.995
+613,"mrtartaria, explica, santaolalla, ecuación, einsten",Neutral,Alta,19329,Alto,2024-06-29 17:37:01,0.994
+614,surrealista,Sorpresa,Alta,73920,Viral,2024-06-30 22:16:36,0.872
+615,"lamine, tiene, ningún, puto, sentido",Enfado,Alta,21324,Alto,2024-07-09 20:03:23,0.913
+616,"alana, podría, competir, cualquiera, combates",Neutral,Alta,105010,Viral,2024-07-13 18:10:11,0.759
+617,"espero, ficción, haga, realidad, miedo",Miedo,Alta,10434,Alto,2024-07-14 00:11:18,0.851
+618,"sepáis, acaban, intentar, asesinar, trump",Sorpresa,Media,44869,Alto,2024-07-14 00:16:48,0.558
+619,"mundo, tiene, sentido, mismo, hemos",Enfado,Alta,46837,Alto,2024-07-14 00:39:37,0.771
+620,"gracias, placitaamarilla, darme, oportunidad, seguir",Alegría,Alta,1561,Bajo,2024-07-14 17:34:02,0.996
+621,"pues, final, verdad, amor, único",Neutral,Alta,83770,Viral,2024-07-17 21:47:09,0.879
+622,,Neutral,Media,57172,Viral,2024-07-19 14:50:19,0.663
+623,"cada, bañito, patrón",Alegría,Alta,46345,Alto,2024-07-21 13:59:58,0.899
+624,"hago, estornudo, motivo, madre, microsegundo",Neutral,Alta,4111,Medio,2024-07-31 13:56:28,0.965
+625,"viendo, quieren, darse, hostias, invito",Neutral,Alta,52385,Viral,2024-08-01 12:52:28,0.993
+626,"aparte, bromas, muchos, venezolanos, estáis",Neutral,Alta,23910,Alto,2024-08-01 14:26:20,0.974
+627,"ojalá, puigdemont, hubiera, regresado, repente",Neutral,Alta,4932,Medio,2024-08-08 12:45:55,0.985
+628,"frank, cuesta, yuyee, solo, diré",Neutral,Alta,61045,Viral,2024-08-14 12:46:31,0.962
+629,"encantaría, tener, mariacorinaya, wild, project",Neutral,Alta,60941,Viral,2024-08-18 14:32:43,0.988
+630,"aprovecho, meme, anunciar, wild, project",Alegría,Alta,8841,Medio,2024-09-06 13:49:32,0.762
+631,"jueves, tarde, hora, española, regresa",Neutral,Media,7273,Medio,2024-09-09 14:43:06,0.581
+632,"mañana, regresa, wild, project, vuelve",Alegría,Alta,7444,Medio,2024-09-11 12:21:37,0.993
+633,"jueves, charla, maría, corina, machado",Neutral,Alta,59731,Viral,2024-09-11 21:19:10,0.988
+634,"estoy, llorando",Tristeza,Media,134023,Viral,2024-09-13 03:12:02,0.716
+635,"triple, threat, nicolás, maduro, jordi",Neutral,Alta,41120,Alto,2024-09-13 17:12:27,0.897
+636,"toma, cambio, entrada, montes",Neutral,Alta,3147,Medio,2024-09-13 18:09:56,0.965
+637,listo,Neutral,Media,14375,Alto,2024-09-13 18:37:34,0.585
+638,"urgente, filtra, primer, asalto, triple",Neutral,Media,2124,Bajo,2024-09-13 18:43:44,0.544
+639,"preguntándole, tebas, negreira, tito, floren",Alegría,Alta,12131,Alto,2024-09-19 12:38:32,0.827
+640,"paso, mejor, podcast, europa, https",Alegría,Alta,307,Bajo,2024-09-26 18:46:25,0.951
+641,"comienza, club, lucha, vida, real",Alegría,Alta,47353,Alto,2024-09-27 13:20:58,0.948
+642,"comienza, club, lucha, https, youtu",Neutral,Alta,3402,Medio,2024-09-28 15:42:35,0.98
+643,"retira, señor, rafael, nadal, parera",Alegría,Alta,14865,Alto,2024-10-10 14:15:31,0.959
+644,"vuelve, mear, colonia",Neutral,Alta,17766,Alto,2024-10-20 20:57:16,0.849
+645,"bueno, ilia, madre, parió",Neutral,Baja,24785,Alto,2024-10-26 20:50:18,0.413
+646,"mete, tremenda, golpiza, madrid, topuria",Neutral,Alta,40929,Alto,2024-10-26 20:58:20,0.918
+647,"comienza, semana, halloween, cada, vídeo",Neutral,Media,3972,Medio,2024-10-27 16:11:08,0.514
+648,"amigos, días, desaparecido, estoy, pasando",Tristeza,Media,81400,Viral,2024-11-01 10:23:48,0.698
+649,"difícil, tocado, escribir, vida, pesadilla",Tristeza,Alta,626172,Viral,2024-11-05 13:43:06,0.992
+650,"pasado, varias, personas, quién, creador",Tristeza,Alta,446344,Viral,2024-11-06 22:07:47,0.963
+651,"vuelvo, trabajo, podcast, dedico, padre",Alegría,Alta,113298,Viral,2024-11-19 14:12:56,0.913
+652,"podcast, invitado, fechas, pensaba, otra",Alegría,Alta,39525,Alto,2024-11-28 18:54:20,0.987
+653,"ojito, estoy, preparando, peleas, club",Alegría,Alta,14405,Alto,2024-12-21 15:25:59,0.927
+654,"último, podcast, mismo, querido, illojuan",Neutral,Alta,4367,Medio,2024-12-22 13:47:09,0.838
+655,"enero, olimpic, arena, badalona, dogfight",Alegría,Alta,13383,Alto,2024-12-22 17:13:51,0.964
+656,"amigos, días, siendo, fáciles, madre",Alegría,Alta,126472,Viral,2024-12-24 21:00:06,0.991
+657,"después, parón, motivos, familiares, sabéis",Alegría,Alta,1637,Bajo,2024-12-28 16:21:18,0.951
+658,"enero, mejor, diciembre",Neutral,Alta,54751,Viral,2024-12-31 16:37:16,0.79
+659,"tienen, años, semifinalistas, mundial, dardos",Neutral,Alta,32616,Alto,2025-01-03 17:15:09,0.986
+660,"comienza, puesto, villano, cómic, régimen",Alegría,Alta,127253,Viral,2025-01-08 14:20:05,0.763
+661,"lamine, yamal, appreciation, post",Neutral,Alta,15532,Alto,2025-01-12 21:16:06,0.887
+662,"puedo, pqrticipar, estoy, dogfight, hasta",Alegría,Alta,5825,Medio,2025-01-15 18:08:29,0.877
+663,"pues, bueno, puedo, japón",Neutral,Alta,107801,Viral,2025-01-17 00:13:46,0.929
+664,"amigos, winamaxdeportes, sortean, entradas, dobles",Alegría,Alta,644,Bajo,2025-01-17 20:04:07,0.991
+665,"quedan, días, casi, entradas, agotadas",Neutral,Media,1185,Bajo,2025-01-21 18:20:14,0.583
+666,"emilia, pérez, nominaciones, oscar, película",Neutral,Alta,15018,Alto,2025-01-23 19:11:27,0.898
+667,"nuevo, vídeo, rincón, giorgio, caso",Neutral,Alta,1630,Bajo,2025-01-26 15:36:09,0.889
+668,"semana, dogfight, miércoles, directito, elxokas",Alegría,Alta,11724,Alto,2025-01-28 15:02:01,0.95
+669,"bonico, elxokas, minutos, directo, especial",Alegría,Alta,6646,Medio,2025-01-29 18:03:17,0.899
+670,"gracias, elxokas, regalo, importante, vosotros",Alegría,Alta,187821,Viral,2025-01-29 23:06:10,0.994
+671,"horita, tenemos, careos, https, youtube",Neutral,Alta,2455,Bajo,2025-01-30 18:04:59,0.939
+672,"unas, horas, llega, evento, caótico",Neutral,Alta,2624,Bajo,2025-01-30 22:53:04,0.888
+673,"amigos, winamaxdeportes, preparado, universo, apuestas",Alegría,Media,2563,Bajo,2025-01-31 12:49:13,0.583
+674,"https, youtube, live",Neutral,Alta,7567,Medio,2025-01-31 16:43:34,0.986
+675,"bueno, estoy, casa, gracias, cariño",Alegría,Alta,54852,Viral,2025-02-01 06:36:26,0.997
+676,"mejor, cartel, historia, insuperable",Alegría,Alta,4981,Medio,2025-02-05 14:35:42,0.936
+677,"casita, cuadro, elxokas, regaló, verdad",Alegría,Alta,180664,Viral,2025-02-09 14:02:14,0.989
+678,"kanye, west, está, liando, tanto",Neutral,Alta,39207,Alto,2025-02-09 16:27:53,0.895
+679,"real, confirman",Sorpresa,Alta,13698,Alto,2025-02-10 14:18:39,0.799
+680,"muerto, gene, hackman, actores, favoritos",Tristeza,Alta,4529,Medio,2025-02-27 14:39:23,0.88
+681,"conozco, nadie, haya, dado, vida",Enfado,Media,133366,Viral,2025-02-28 14:32:34,0.736
+682,"zelensky, trump, velada, main, event",Neutral,Alta,19247,Alto,2025-02-28 19:22:17,0.932
+683,"creado, realidad, paralela, demi, moore",Alegría,Alta,11196,Alto,2025-03-03 04:31:40,0.985
+684,"preferida, brutalist, anora, encantó, alegro",Alegría,Alta,5077,Medio,2025-03-03 05:39:37,0.997
+685,"problemas, técnicos, habrá, podcast, semana",Alegría,Alta,4981,Medio,2025-03-06 18:48:43,0.854
+686,"puedes, fútbol, guste, flick",Neutral,Alta,63966,Viral,2025-03-16 22:00:38,0.984
+687,"hago, trend, amigos, pasan, japoneses",Neutral,Alta,21128,Alto,2025-03-30 18:39:46,0.951
+688,"termina, trend, studio, ghibli, paso",Neutral,Alta,14447,Alto,2025-03-31 12:44:13,0.989
+689,"vamos, acabar, debate, switch, cara",Neutral,Alta,2493,Bajo,2025-04-02 17:53:24,0.961
+690,"tema, switch, precio, consola, parece",Enfado,Alta,25809,Alto,2025-04-03 13:59:11,0.831
+691,"quiénes, solo, respuestas, incorrectas",Neutral,Alta,6911,Medio,2025-04-07 22:26:51,0.994
+692,"china, estados, unidos, mismo",Neutral,Alta,9279,Medio,2025-04-09 20:59:02,0.991
+693,"dadle, cariño, colega, tania, mañana",Neutral,Media,774,Bajo,2025-04-11 14:07:59,0.627
+694,"puta, fiesta, partido",Neutral,Baja,29525,Alto,2025-04-19 16:25:45,0.462
+695,"feliz, sant, jordi, mejor, jamás",Alegría,Alta,85319,Viral,2025-04-23 13:28:16,0.994
+696,"traigo, pedro, baños, empieza, guerra",Neutral,Alta,92404,Viral,2025-04-28 15:22:04,0.966
+697,"equipo, divertido, historia",Alegría,Media,27192,Alto,2025-04-30 19:41:17,0.527
+698,serio,Sorpresa,Alta,12797,Alto,2025-04-30 20:25:25,0.957
+699,"tiene, pinta, tardan, años",Neutral,Media,63714,Viral,2025-05-06 13:54:25,0.741
+700,"visca, collons",Alegría,Alta,23224,Alto,2025-05-06 20:20:06,0.99
+701,"vale, estoy, aterrado",Sorpresa,Alta,40568,Alto,2025-05-20 19:02:14,0.778
+702,"vuelven, combates, club, lucha, https",Alegría,Baja,437,Bajo,2025-05-31 14:32:09,0.42
+703,"cojones, https, elonmusk, statu, status",Sorpresa,Media,28296,Alto,2025-06-05 20:02:34,0.735
+704,"musk, trump, pasado, goku, vegeta",Neutral,Alta,13020,Alto,2025-06-05 22:47:48,0.92
+705,"mejor, novela, desde, rosa, guadalupe",Alegría,Alta,115331,Viral,2025-06-07 00:03:24,0.893
+706,"youtube, increíble, puesto, restricción, edad",Enfado,Media,29651,Alto,2025-06-10 13:25:02,0.61
+707,"estoy, directo, gran, josebas, auténtico",Alegría,Alta,528,Bajo,2025-06-16 18:12:39,0.963
+708,"joan, garcía, dejando, espanyol, drama",Neutral,Alta,11649,Alto,2025-06-18 15:25:08,0.98
+709,"semanas, julio, llega, especial, verano",Neutral,Alta,10753,Alto,2025-06-20 17:11:22,0.798
+710,"donald, trump, presidente, nunca, metía",Neutral,Media,33179,Alto,2025-06-22 02:34:20,0.538
+711,"equivoquéis, régimen, iran, parece, asquerosos",Enfado,Alta,47362,Alto,2025-06-22 03:18:14,0.817
+712,"gente, estoy, directo, salva, albert",Neutral,Alta,805,Bajo,2025-06-22 19:29:05,0.995
+713,"toca, estar, amigo, podcast, horas",Neutral,Media,2374,Bajo,2025-06-23 18:13:44,0.748
+714,"topuria, tiene, estar, conversación, mejor",Neutral,Alta,69791,Viral,2025-06-29 05:03:04,0.857
+715,"real, life",Neutral,Alta,7759,Medio,2025-07-03 15:35:37,0.979
+716,"mañana, hacemos, historia, wild, project",Neutral,Media,4150,Medio,2025-07-03 15:38:25,0.669
+717,charlito,Neutral,Media,6824,Medio,2025-07-06 01:03:57,0.581
+718,"vamo, juga",Neutral,Alta,6942,Medio,2025-07-11 14:03:24,0.776
+719,"muerto, jodido, ozzy, osbourne, grandes",Tristeza,Alta,21255,Alto,2025-07-22 18:59:04,0.95
+720,"casa, horrores, solo, sabios, entenderan",Neutral,Alta,8986,Medio,2025-07-25 12:55:43,0.932
+721,"bueno, acabaron, vacaciones, martes, septiembre",Alegría,Alta,11162,Alto,2025-09-07 13:19:58,0.99
+722,"vuelve, wild, project, regresamos, hermosa",Alegría,Alta,2228,Bajo,2025-09-09 11:12:37,0.996
+723,"vienen, cositas",Neutral,Media,1366,Bajo,2025-09-19 16:15:58,0.65
+724,"venga, miércoles, regresa, rincón, giorgio",Neutral,Alta,4708,Medio,2025-09-30 22:10:59,0.795
+725,"bueno, pasado, boom, moralistas, charitos",Neutral,Alta,45279,Alto,2025-10-16 10:44:24,0.975
+726,"cierto, entiendo, meristation, estáis, horas",Neutral,Alta,16479,Alto,2025-10-16 12:26:12,0.987
+727,"termino, tema, comentaré, próxima, tertulia",Neutral,Alta,9971,Medio,2025-10-16 13:49:55,0.996
+728,"nuevo, podcast, periodistas, jorge, saucedo",Neutral,Alta,1965,Bajo,2025-10-16 18:39:37,0.954
+729,"orgullo, tener, delante, gustavo, santaolalla",Alegría,Alta,24073,Alto,2025-10-24 15:59:08,0.995
+730,"especial, halloween, wild, project, beatriz",Neutral,Alta,1587,Bajo,2025-10-30 16:29:38,0.98
+731,"pues, acabó, guerra, consolas",Neutral,Alta,17316,Alto,2025-11-12 22:38:44,0.942
+732,"vale, definitivamente, hemos, hecho, viejos",Neutral,Alta,23335,Alto,2025-12-10 20:25:52,0.974
+733,"podcast, mayores, genios, física, cuántica",Neutral,Media,1499,Bajo,2025-12-11 16:20:55,0.691
+734,"leon, resident, evil, está, thegameawards",Neutral,Media,31414,Alto,2025-12-12 01:51:24,0.631
+735,"expedition, grandísimo, juego, goty, kingdom",Neutral,Alta,10702,Alto,2025-12-12 04:16:10,0.878
+736,"expedition, solo, faltado, ganar, mejor",Neutral,Alta,5496,Medio,2025-12-12 04:22:56,0.945
+737,"entre, donaciones, vuestras, semana, donado",Alegría,Alta,24571,Alto,2025-12-20 16:12:52,0.996
+738,"tíos, cena, navidad, tercera, copa",Neutral,Baja,9183,Medio,2025-12-23 14:31:56,0.497
+739,"estoy, borracho, felzi",Alegría,Alta,14935,Alto,2026-01-01 03:40:58,0.966
+740,"maduro, quién, está, seco, venga",Neutral,Alta,182046,Viral,2026-01-03 12:55:14,0.954
+741,"podcast, especial, detención, nicolás, maduro",Neutral,Alta,4060,Medio,2026-01-04 19:57:38,0.996
+742,"lamine, futuro, auténtico, líder, raphinha",Neutral,Alta,52632,Viral,2026-01-11 19:38:54,0.905
+743,"visca, hostia, partidazo, equipos",Alegría,Alta,26288,Alto,2026-01-11 21:07:00,0.997
+744,"menos, competido",Neutral,Alta,28978,Alto,2026-01-14 22:14:14,0.958
+745,raphinha,Neutral,Alta,6857,Medio,2026-01-18 22:09:24,0.923
+746,míos,Alegría,Media,24553,Alto,2026-01-20 23:03:42,0.715
+747,"inicios, tenemos, cárcel, arkham, vida",Neutral,Alta,8971,Medio,2026-02-19 16:04:25,0.956
+748,"pequeño, decían, futuro, coches, volarían",Neutral,Alta,61781,Viral,2026-02-20 03:26:47,0.9
+749,"vienen, cosas, semana, hoynuevo, caso",Neutral,Alta,2376,Bajo,2026-02-22 13:53:57,0.764
+750,"vuelve, tradición, residente, descanso, rincón",Neutral,Alta,4503,Medio,2026-02-26 14:25:57,0.911
+751,"viendo, joya, tradición, residente, jordiwild",Alegría,Baja,0,Bajo,2026-02-27 08:49:19,0.449
+752,"main, event, merecíamos",Neutral,Alta,23387,Alto,2026-03-09 22:11:46,0.887
+753,"showtime, coming, theaters, june",Neutral,Alta,231010,Viral,2026-03-18 17:25:05,0.971
+754,"http, checoperez, live, everything, checo",Neutral,Alta,7496,Medio,2026-03-18 17:35:10,0.988
+755,"comentario, estúpido",Enfado,Alta,1,Bajo,2026-03-18 20:07:00,0.803
+756,"famous, british, comedian, bean, feel",Enfado,Baja,157478,Viral,2026-03-18 20:56:20,0.478
+757,"bubble, butt",Neutral,Media,89728,Viral,2026-03-18 23:04:35,0.747
+758,mean,Neutral,Alta,41419,Alto,2026-03-19 01:07:51,0.932
