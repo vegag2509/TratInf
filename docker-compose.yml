@@ -1,0 +1,9 @@
+services:
+  app-emociones:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile  # Nueva ruta del archivo
+    volumes:
+      - ./db_local:/app/db
+      - ./data:/app/data
+      - ./src:/app/src

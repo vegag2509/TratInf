@@ -1,0 +1,39 @@
+============================================================
+REPORTE DE ENTRENAMIENTO - DETECCION DE EMOCIONES
+============================================================
+Fecha y hora de ejecucion: 2026-05-06 19:34:41
+Modelo: Logistic Regression + TF-IDF
+Total de registros: 757
+Registros entrenamiento: 605
+Registros prueba: 152
+Split estratificado: Si
+
+------------------------------------------------------------
+DISTRIBUCION DE ETIQUETAS (DATASET COMPLETO)
+------------------------------------------------------------
+  Neutral: 400
+  Alegría: 253
+  Enfado: 51
+  Sorpresa: 29
+  Tristeza: 24
+
+------------------------------------------------------------
+METRICAS EN CONJUNTO DE PRUEBA
+------------------------------------------------------------
+Accuracy: 0.6316
+
+              precision    recall  f1-score   support
+
+     Alegría       0.61      0.78      0.68        51
+      Enfado       0.38      0.30      0.33        10
+     Neutral       0.72      0.65      0.68        80
+    Sorpresa       0.00      0.00      0.00         6
+    Tristeza       0.50      0.20      0.29         5
+
+    accuracy                           0.63       152
+   macro avg       0.44      0.39      0.40       152
+weighted avg       0.62      0.63      0.62       152
+
+============================================================
+FIN DEL REPORTE
+============================================================
